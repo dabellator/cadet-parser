@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/timcmiller/simple_md_parser.git"
+    "url": "git+https://github.com/cf-lms/cadet-parser.git"
   },
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/timcmiller/simple_md_parser/issues"
+    "url": "https://github.com/cf-lms/cadet-parser/issues"
   },
-  "homepage": "https://github.com/timcmiller/simple_md_parser#readme",
+  "homepage": "https://github.com/cf-lms/cadet-parser#readme",
   "devDependencies": {
     "chai": "^3.4.1",
     "mocha": "^2.3.4"
