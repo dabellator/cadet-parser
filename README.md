@@ -59,6 +59,6 @@ Assignment should follow four ####. Then lead off with a type of assignment foll
 
 Rubric should follow five #####. Then lead off with the title Rubric followed by a numerical number serperated by a :.
 
-```#####Rubric: 10````
+```#####Rubric: 10```
 
 
