@@ -1,6 +1,8 @@
 # Cadet Parser
 
-<strong>How to use Cadet Parser</strong>
+[![Build Status](https://travis-ci.org/cf-lms/cadet-parser.svg)](https://travis-ci.org/cf-lms/cadet-parser)
+
+**How to use Cadet Parser**
 ==========================
 Installation
 -----------------
@@ -10,7 +12,7 @@ To then use Cadet Parser you must require it in.
 
 ```var parser = require('cadet-parser')```
 
-<strong>parser(pathname, callback)</strong>
+**parser(pathname, callback)**
 
 Cadet Parser gives you a function that will read a file and return to you a course object generated from that file.
 
@@ -24,38 +26,38 @@ parser(__dirname + '/example/exmaple.md', function(error, data) {
 });
 ```
 
-<strong>Markdown Structure</strong>
+**Markdown Structure**
 ===================================
 
 The structure you build your markdown is very important.
 
 The parser is looking for a specific number of # to build the object.
 
-<strong>Title</strong>
+**Title**
 
 Title of the course should follow a single #
 
 ```#JavaScript Full-stack Development Accelorator```
 
-<strong>Week</strong>
+**Week**
 
 Week of the course should follow two ##. Followed by a numerical number for the week.
 
 ```##Week 1```
 
-<strong>Day</strong>
+**Day**
 
 Day of the course should follow three ###. Followed by a numerical number for the day of the week.
 
 ```###Day 1```
 
-<strong>Assignment</strong>
+**Assignment**
 
 Assignment should follow four ####. Then lead off with a type of assignment followed by a title seperated by a :.
 
 ```####Code: Code some stuff```
 
-<strong>Rubric</strong>
+**Rubric**
 
 Rubric should follow five #####. Then lead off with the title Rubric followed by a numerical number serperated by a :.
 
