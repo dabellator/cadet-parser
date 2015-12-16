@@ -38,28 +38,28 @@ The parser is looking for a specific number of hashes(`#`) to build the object.
 Title of the course should follow a single hash(`#`).
 If you wish to add a description to the course follow the titile with a colon(`:`) And add your desctiption after the colon(`:`) and a space(` `).
 
-```#JavaScript```
+`#JavaScript`
 
 **Week**
 
 Week of the course should follow two hashes(`##`). They should be ordered from top to bottom in numerical order.
 
-```##Week 1```
+`##Week 1`
 
 **Day**
 
 Day of the course should follow three hashes(`###`). Days should follow the week they are a part of and should be ordered from top to bottom in numerical order.
 
-```###Day 1```
+`###Day 1`
 
 **Assignment**
 
 Assignment should follow four hashes(`####`). Then lead off with a type of assignment followed by a description seperated by a colon(`:`) and a space(` `). Assignments should follow the day they are a part of.
 
-```####Code: Code some stuff```
+`####Code: Code some stuff`
 
 **Rubric**
 
 Rubric should follow five hashes(`#####`). Then lead off with the title Rubric followed by a numerical number serperated by a colon(`:`) and a space(` `).
 
-```#####Rubric: 10```
+`#####Rubric: 10`
