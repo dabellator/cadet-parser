@@ -60,6 +60,6 @@ Assignment should follow four hashes(`####`). Then lead off with a type of assig
 
 **Rubric**
 
-Rubric should follow five hashes(`#####`). Then lead off with the title Rubric followed by a numerical number serperated by a colon(`:`) and a space(` `).
+Rubric should follow five hashes(`#####`). Then lead off with the title Rubric followed by a numerical number serperated by a colon(`:`) and a space(` `). Rubrics should follow the assignment they are part of.
 
 `#####Rubric: 10`
