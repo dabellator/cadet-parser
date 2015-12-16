@@ -1,27 +1,27 @@
 {
   "name": "cadet-parser",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "a mvp markdown parser for use with Cadet",
   "main": "index.js",
   "directories": {
     "example": "example"
   },
   "scripts": {
-    "test": "./node_modules/mocha/bin/mocha test",
-    "start": "./index.js"
+    "test": "./node_modules/mocha/bin/mocha test"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/timcmiller/simple_md_parser.git"
+    "url": "git+https://github.com/cf-lms/cadet-parser.git"
   },
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/timcmiller/simple_md_parser/issues"
+    "url": "https://github.com/cf-lms/cadet-parser/issues"
   },
-  "homepage": "https://github.com/timcmiller/simple_md_parser#readme",
+  "homepage": "https://github.com/cf-lms/cadet-parser#readme",
   "devDependencies": {
     "chai": "^3.4.1",
     "mocha": "^2.3.4"
-  }
+  },
+  "dependencies": {}
 }
