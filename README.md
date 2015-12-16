@@ -36,7 +36,7 @@ The parser is looking for a specific number of hashes(`#`) to build the object.
 **Title**
 
 Title of the course should follow a single hash(`#`).
-If you wish to add a description to the course follow the titile with a colon(`:`) And add your desctiption after the colon(':') and a space(` `).
+If you wish to add a description to the course follow the titile with a colon(`:`) And add your desctiption after the colon(`:`) and a space(` `).
 
 ```#JavaScript```
 
