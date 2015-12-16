@@ -1,4 +1,4 @@
-#JavaScript
+#JavaScript: An eight week course over the MEAN stack.
 
 ##Week 1
 ###Day 1
