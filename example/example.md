@@ -2,13 +2,13 @@
 
 ##Week 1
 ###Day 1
-####Code: Simple Test and Modular Parrerns2
+####Code: Simple Test and Modular Parrerns3
 #####Rubric: 10
-####Read: Basic Testing With Mocha/Chai2
+####Read: Basic Testing With Mocha/Chai3
 #####Rubric: 5
 
 ###Day 2
-####Code: Adding a Gulpfile/package.json2
+####Code: Adding a Gulpfile/package.json3
 #####Rubric: 10
-####Read: Semantic Versioning2
+####Read: Semantic Versioning3
 #####Rubric: 5
